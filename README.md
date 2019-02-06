@@ -2,10 +2,10 @@
 A python package for accessing mensa menus at ETH and UZH Zürich
 
 # Installation
-`pip3 install pySBB`
+`pip3 install pyMensa`
 
 # Usage
-This package lets you access mensa menus at ETH and UZH Zürich. This package will only let you access menus at lunch time.
+This package lets you access mensa menus at ETH and UZH Zürich. This package will only let you access menus at lunch time of the current day.
 
 ## Get Meals
 It is very simple to get meals for a mensa:
