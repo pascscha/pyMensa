@@ -67,19 +67,6 @@ einfach gut (STUD:5.40 STAFF:7.00 EXTERN:10.50)
 
 natürlich vegi (STUD:5.40 STAFF:7.00 EXTERN:10.50)
 	 Gefüllte Aubergine mit Sojagehacktem Tomatensauce und Bratkartoffeln Menüsalat oder Apfelmus
-	
-
-insert magic here -> ~/Python/pyMensa$ python3 test.py 
-UZH Zentrum
-['zentrum', 'uni', 'uzh zentrum', 'uzhzentrum']
-einfach gut (STUD:5.40 STAFF:7.00 EXTERN:10.50)
-	 Rindshackfleisch-Pilzragout
-	mit hausgemachten Spätzli und Weisskabis
-	Fleisch:Rind, CH
-	
-
-natürlich vegi (STUD:5.40 STAFF:7.00 EXTERN:10.50)
-	 Gefüllte Aubergine mit Sojagehacktem Tomatensauce und Bratkartoffeln Menüsalat oder Apfelmus
 ```
 
 # Objects
